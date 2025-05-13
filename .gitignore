@@ -1,0 +1,17 @@
+# Folders
+__pycache__/
+final_model/
+results/
+wandb/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Secret
+dev_keys.json
