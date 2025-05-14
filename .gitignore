@@ -15,3 +15,9 @@ env/
 
 # Secret
 dev_keys.json
+
+# All saved_pred
+*.csv
+
+# Analization
+*.ipynb
