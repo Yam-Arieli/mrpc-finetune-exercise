@@ -4,6 +4,8 @@ This is the code base for ANLP HUJI course exercise 1, fine tuning pretrained mo
 
 # Install
 ``` pip install -r requirements.txt ```
+>**NOTE ❗️**<br>
+>You need to update the `keys.json` file with your own secret <a href="https://wandb.ai/site/"><i>wandb</i></a> key before runing the program!
 
 # Fine-Tune and Predict on Test Set
 Run:
